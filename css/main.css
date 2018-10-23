@@ -1,7 +1,7 @@
 html {
   background: ;
   box-sizing: ;
-  font-family: Georgia, sans-serif;
+  font-family: Dosis, sans-serif;
   line-height: 1.5;
   background-color: #f0eee8;
 }
@@ -16,7 +16,7 @@ main {
 }
 
 .link-card {
-  background-color: #cabdb2;
+  background-color: #dcd4cd;
   margin: 0 0 1rem;
   text-decoration: none;
 }
@@ -35,10 +35,10 @@ a {
   background-color:
 }
 
-h2, p, dl {
-  color: #512200;
+p, dl {
+  font-family: Georgia, sans-serif;
 }
 
-{
-  font-family: Dosis, sans-serif;
+h2, p, dl {
+  color: #512200;
 }
