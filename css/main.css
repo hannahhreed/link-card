@@ -25,6 +25,7 @@ main {
   background-color: #785439;
   border-radius: 8px;
   padding: .4em .75em .5em;
+  font-weight: bold;
 }
 
 .link:hover {
