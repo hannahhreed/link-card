@@ -1,0 +1,42 @@
+html {
+  background: ;
+  box-sizing: ;
+  font-family: Georgia, sans-serif;
+  line-height: 1.5;
+  background-color: #f0eee8;
+}
+
+*, *: :before, *::after {
+  box-sizing: inherit;
+}
+
+main {
+  border-color: #9a816d;
+  text-align: center;
+}
+
+.link-card {
+  background-color: #cabdb2;
+  margin: 0 0 1rem;
+}
+
+.link-card:hover {
+  background-color: #dcd4cd;
+}
+
+/* a {
+  display: inline-block;
+} */
+
+/* a {
+  color: #f0eee8;
+  background-color:
+}
+
+h1, p, ol {
+  color: #785439;
+}
+
+{
+  font-family: Dosis, sans-serif;
+} */
