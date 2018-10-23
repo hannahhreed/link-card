@@ -18,25 +18,27 @@ main {
 .link-card {
   background-color: #cabdb2;
   margin: 0 0 1rem;
+  text-decoration: none;
+}
+
+.link {
+  color: #fff;
 }
 
 .link-card:hover {
   background-color: #dcd4cd;
 }
 
-/* a {
+a {
   display: inline-block;
-} */
-
-/* a {
   color: #f0eee8;
   background-color:
 }
 
-h1, p, ol {
-  color: #785439;
+h2, p, dl {
+  color: #512200;
 }
 
 {
   font-family: Dosis, sans-serif;
-} */
+}
