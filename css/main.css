@@ -19,6 +19,11 @@ main {
   text-decoration: none;
 }
 
+.link-card h2 {
+  font-size: 1.5rem;
+  text-align: left;
+}
+
 .link {
   color: #fff;
   background-color: #785439;
@@ -58,6 +63,7 @@ dt, dd {
 
 p {
   font-size: 1rem;
+  text-align: left;
 }
 
 dd {
