@@ -5,7 +5,7 @@ html {
   box-sizing: border-box;
 }
 
-*, * :before, *::after {
+*, * :before, *:after {
   box-sizing: inherit;
 }
 
@@ -21,7 +21,7 @@ main {
   text-decoration: none;
   padding: .4em .75em .5em;
   border: solid 3px #9a816d;
-  border-radius: 3px;
+  border-radius: 8px;
 }
 
 .link-card h2 {
@@ -32,12 +32,11 @@ main {
 .link {
   color: #fff;
   background-color: #785439;
-  border-radius: 8px;
+  border-radius: 3px;
   padding: .4em .75em .5em;
   font-weight: bold;
   display: inline-block;
   font-family: Dosis, sans-serif;
-
 }
 
 .link:hover {
