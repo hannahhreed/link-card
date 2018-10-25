@@ -36,6 +36,8 @@ main {
   padding: .4em .75em .5em;
   font-weight: bold;
   display: inline-block;
+  font-family: Dosis, sans-serif;
+
 }
 
 .link:hover {
