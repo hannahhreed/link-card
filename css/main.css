@@ -1,11 +1,10 @@
 html {
-  background: ;
   font-family: Dosis, sans-serif;
   line-height: 1.5;
   background-color: #f0eee8;
 }
 
-*, *: :before, *::after {
+*, * :before, *::after {
   box-sizing: inherit;
 }
 
@@ -38,7 +37,6 @@ main {
 a {
   display: inline-block;
   color: #f0eee8;
-  background-color: ;
   text-decoration: none;
 }
 
@@ -59,7 +57,7 @@ dt, dd {
 }
 
 p {
-  font-size: 1.125rem;
+  font-size: 1rem;
 }
 
 dd {
