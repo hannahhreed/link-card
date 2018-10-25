@@ -11,6 +11,8 @@ html {
 main {
   border-color: #9a816d;
   text-align: center;
+  background-color: #dcd4cd;
+  padding-bottom: 1rem;
 }
 
 .link-card {
@@ -22,7 +24,6 @@ main {
 .link-card h2 {
   font-size: 1.5rem;
   text-align: left;
-  padding: .4em .75em .5em;
 }
 
 .link {
@@ -30,6 +31,7 @@ main {
   background-color: #785439;
   border-radius: 8px;
   padding: .4em .75em .5em;
+  font-weight: bold;
 }
 
 .link:hover {
@@ -52,6 +54,8 @@ p, dl {
 
 h2, p, dl {
   color: #512200;
+  padding: .4em .75em .5em;
+  text-align: left;
 }
 
 dt, dd {
