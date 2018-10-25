@@ -19,7 +19,7 @@ main {
   background-color: #dcd4cd;
   margin: 0 0 1rem;
   text-decoration: none;
-  padding: .4em .75em .5em;
+  padding: 1rem;
   border: solid 3px #9a816d;
   border-radius: 8px;
 }
@@ -27,6 +27,7 @@ main {
 .link-card h2 {
   font-size: 1.5rem;
   text-align: left;
+  margin-top: 0;
 }
 
 .btn {
