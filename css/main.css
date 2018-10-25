@@ -1,5 +1,5 @@
 html {
-  font-family: Dosis, sans-serif;
+  font-family: Georgia, sans-serif;
   line-height: 1.5;
   background-color: #f0eee8;
   box-sizing: border-box;
@@ -28,6 +28,8 @@ main {
   font-size: 1.5rem;
   text-align: left;
   margin-top: 0;
+  margin-bottom: 1rem;
+  font-family: Dosis, serif;
 }
 
 .btn {
@@ -38,6 +40,7 @@ main {
   font-weight: bold;
   display: inline-block;
   font-family: Dosis, sans-serif;
+  font-size: 1.125;
 }
 
 .link:hover {
@@ -57,13 +60,13 @@ a {
   text-decoration: none;
 }
 
-p, dl {
-  font-family: Georgia, sans-serif;
-}
-
 h2, p, dl {
   color: #512200;
   text-align: left;
+}
+
+dl {
+  font-size: .875rem;
 }
 
 dt, dd {
@@ -71,7 +74,6 @@ dt, dd {
   width: 45%;
   margin: 0;
   text-align: left;
-  font-size: .875rem;
 }
 
 p {
